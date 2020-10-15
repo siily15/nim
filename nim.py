@@ -17,5 +17,4 @@ for r in range(int(n)):
 for z in y:
     for v in y2:
         if z == v:
-            y3[y[z]] = y2[v]
-print(y3)
+            print(y[z] + " " + y2[v])
