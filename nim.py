@@ -3,7 +3,7 @@ n = f.readline()
 
 y = {}
 y2 = {}
-y3 = {}
+
 for x in range(int(n)):
     name = f.readline()
     splitted = name.split()
